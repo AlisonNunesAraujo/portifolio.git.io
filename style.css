@@ -77,39 +77,50 @@ main{
     
 }
 .car{
-    width: 130px;
+    width: 200px;
     height: 190px;
-    background-color: blue;
+    background-color: rgba(17, 17, 31, 0.226);
     display: flex;
     justify-content:center;
     border-radius: 20px;
 }
 .port{
-    width: 130px;
+    width: 200px;
     height: 190px;
-    background: blue;
+    background: rgba(17, 17, 31, 0.226);
     display: flex;
     justify-content: center;
     border-radius: 20px;
 }
 
 .motos{
-    width: 130px;
+    width: 200px;
     height: 190px;
-    background: blue;
+    background: rgba(17, 17, 31, 0.226);
     display: flex;
     justify-content: center;
     border-radius: 20px;
 
 }
+.titlepro{
+    display: flex;
+    justify-content: center;
+    margin: 60px;
+}
+
+.tituloprojetos{
+    color:rgb(248, 246, 246);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
 
 @media screen and (max-width: 500px) {
     .title{
-        font-size: 40px;
+        font-size: 45px;
         color: rgb(253, 251, 253);       
     }
     a{
-        font-size: 10px;
+        font-size: 13px;
         flex-direction: row;
         
     }
@@ -123,19 +134,19 @@ main{
         margin-top: 100px;   
     }
     .primeiro{
-        font-size: 25px;
+        font-size: 30px;
         margin-left: 20px;
     }
     .segundo{
-        font-size: 23px;
+        font-size: 25px;
         margin-left: 20px;
     }
     .paragrafo{
         color: white;
         margin-left: 23px;
         margin-top: 20px;
-        font-family:cursive;
-        font-size: 15px;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: 17px;
 
     }
 
