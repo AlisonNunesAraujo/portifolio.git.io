@@ -157,7 +157,7 @@ main{
 }
 
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 700px) {
     .title{
         font-size: 45px;
         color: rgb(253, 251, 253);       
@@ -209,6 +209,11 @@ main{
     }
     .port{
         margin: 15px;
+    }
+    .pro{
+        flex-direction: column;
+        justify-content: center;
+        
     }
     
 }
