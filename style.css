@@ -112,19 +112,19 @@ main{
 .habilidades{
     display: flex;
     justify-content: center;
-    margin-top: 10px;
+    margin-top: 100px;
 }
 
 .habilidadestitle{
     color: rgb(246, 246, 252);
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     
 }
 
 .pro{
     display: flex;
     justify-content: space-evenly;
-    margin: 60px;
+    margin: 30px;
     
     
 }
