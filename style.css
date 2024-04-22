@@ -124,7 +124,7 @@ main{
 .pro{
     display: flex;
     justify-content: space-evenly;
-    margin: 100px;
+    margin: 60px;
     
     
 }
@@ -154,6 +154,13 @@ main{
     font-size: 100px;
     color: blue;
     transition: 0.3s;
+}
+.descricaologo{
+    color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    font-size: 17px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 
@@ -213,9 +220,18 @@ main{
     .pro{
         flex-direction: column;
         justify-content: center;
+        align-items: center;
         
     }
-    
+
+
+    .descricaologo{
+        color: antiquewhite;
+        display: flex;
+        justify-content: center;
+        font-size: 12px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
 }
 a:hover{
     color: blue;
@@ -224,8 +240,7 @@ a:hover{
     border: 2px blueviolet solid;
 }
 #html:hover{
-    color: rgb(248, 244, 244);
-    
+    color: rgb(248, 244, 244);    
 }
 #css:hover{
     color: white;
@@ -236,15 +251,6 @@ a:hover{
 #react:hover{
     color: white;
 }
-
-
-
-
-
-
-
-
-
 
 
 img{
