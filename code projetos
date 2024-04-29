@@ -1,0 +1,36 @@
+<div class="titlepro">
+      <h1 class="tituloprojetos">Meus Projetos</h1>
+    </div>
+    <div class="projetos">
+      <div class="car">
+        <h1>Carros</h1>
+      </div>
+      <div class="port">
+        <h1>Em breve</h1>
+      </div>
+      <div class="motos">
+        <h1>Em breve</h1>
+      </div>
+    </div>
+
+
+
+
+    .insta{
+      display: flex;
+      font-size: 18px;
+      font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      margin-bottom: 5px;
+      margin-top: 20px;
+      margin-left: 50px;
+      color: white;
+  }
+  
+  .git{
+      display: flex;
+      font-size: 18px;
+      margin-left: 50px;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      color: white;
+  }
+  
